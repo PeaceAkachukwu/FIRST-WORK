@@ -1,0 +1,11 @@
+body {
+    font-family: "Funnel Display", sans-serif;
+}
+
+#wrapper {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    
+}
